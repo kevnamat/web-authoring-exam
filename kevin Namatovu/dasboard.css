@@ -1,0 +1,36 @@
+element {
+}
+body.drawer-open-left {
+    margin-left: 200px;
+}
+body.drawer-open-left {
+    margin-left: 200px;
+}
+body {
+    margin-left: 55px;
+}
+html, body {
+    height: 100%;
+}
+body {
+    font-family: "segoe-ui",sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #262626;
+    background-color: #eef5f9;
+}
+body {
+    margin: 0;
+        margin-left: 0px;
+}
+*, ::before, ::after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+html {
+    font-size: 14px;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+}

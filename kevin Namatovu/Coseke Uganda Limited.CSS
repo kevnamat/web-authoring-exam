@@ -1,0 +1,160 @@
+
+    * {
+      box-sizing: border-box;
+    }
+    
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 14px;
+      line-height: 1.42857143;
+      margin: 0;
+      background: dodgerblue;
+    }
+
+    
+    
+    .header {
+      padding: 30px;
+      text-align: center;
+      background: #683d04;
+      color: white;
+    }
+    
+    
+    .header h1 {
+      font-size: 40px;
+    }
+    
+   
+    .navbar {
+      overflow: hidden;
+      background-color: #333;
+    }
+
+    .navbar a {
+      float: left;
+      display: block;
+      color:yellow ;
+      text-align: center;
+      padding: 14px 20px;
+      text-decoration: none;
+    }
+    
+
+    .navbar a.right {
+      float: right;
+    }
+    
+  
+    .navbar a:hover {
+      background-color: rgb(209, 54, 54);
+      color: dodgerblue;
+      font-weight: 800;
+    }
+    
+   
+    .Kev-row {  
+      display: -ms-flexbox; 
+      display: flex;
+      -ms-flex-wrap: wrap; 
+      flex-wrap: wrap;
+    }
+    
+
+    .Kevrose {
+      -ms-flex: 30%; 
+      flex: 30%;
+      background-color: bisque;
+      padding: 20px;
+    }
+    
+    
+    .Kevlinemain {   
+      -ms-flex: 70%; 
+      flex: 70%;
+      background-color: red;
+      padding: 20px;
+      color: blue;
+      font-weight: bold;
+    }
+    
+   
+    .KeV-img {
+      background-color: rgb(127, 189, 107);
+      width: 100%;
+      padding: 20px;
+      height: 90px;
+    }
+    
+   
+    .footer {
+      padding: 20px;
+      text-align: center;
+      background: #ddd;
+    }
+    .intro
+    {
+        white-space: normal;
+        font-size: 16px; 
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        line-height: 15px; 
+        font-weight: 400; 
+        color: yellow;
+        text-align: center;
+        opacity: 1px;
+    }
+
+    
+    #footer {
+        background-color: #1d1919;
+    }
+    article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+        display: block;
+    }
+    * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+   
+   
+   
+    }
+    html {
+        font-size: 10px;
+    }
+    html {
+        font-family: sans-serif;
+        -webkit-text-size-adjust: 100%;
+    }
+
+    .stratergies
+    {
+      text-align: center;
+      color:#000000;
+      background-color:#ffdd00;
+    }
+
+    .main-img
+    {
+      width: 660px;
+      height: 400px;
+    }
+
+    .p1
+    {
+      color: darkorange;
+      font-size: large;
+      font-weight: 900;
+    }
+
+    p .linking
+    {
+      color: navy;
+      text-decoration: none;
+      font-size: 15px;
+      font-weight: bold;
+      width: 50px;
+      min-height: 70px;
+    }
